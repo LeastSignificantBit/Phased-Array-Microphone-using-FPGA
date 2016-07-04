@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LC549C
+D 8-BIT ANALOG-TO-DIGITAL CONVERTERS WITH SERIAL CONTROL
+F /home/martin/Projects/Phased Array Microphone using FPGA/Doc/TLC548I.pdf
+$ENDCMP
+#
+#End Doc Library
